@@ -6,5 +6,6 @@ public class Main {
             randomNumbers[i] = (int) ((Math.random() * 100) + 1);
         }
         System.out.println("hello world!");
+        System.out.println("new git version");
     }
 }
