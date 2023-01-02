@@ -5,5 +5,6 @@ public class Main {
         for (int i = 0; i < randomNumbers.length; i++) {
             randomNumbers[i] = (int) ((Math.random() * 100) + 1);
         }
+        System.out.println("hello world!");
     }
 }
